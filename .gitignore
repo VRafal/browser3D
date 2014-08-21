@@ -1,0 +1,8 @@
+.buildpath
+.project
+.settings
+node_modules
+ex
+wp
+/nbproject/private/
+nbproject

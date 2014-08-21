@@ -1,0 +1,13 @@
+{
+	"name": "browser3d",
+	"version": "0.0.1",
+	"description": "Browser 3D",
+	"devDependencies": {
+		"grunt": "~0.4.1",
+		"grunt-contrib-less": "~0.11.0",
+		"grunt-contrib-watch": "~0.5.3"
+	},
+	"author": "VRB",
+	"email": "rafal@bernaczek.pl",
+	"license": "MIT"
+}
